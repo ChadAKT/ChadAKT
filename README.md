@@ -1,5 +1,4 @@
-# 💫 About Me:
-# 👋 Yo, I'm AKT<br><br>🧠 Coder | 💻 Frontend Dev | 💪 Gym Freak<br><br>I build slick UIs and clean code — whether it's crafting pixel-perfect components or lifting heavy at the gym. Focused, fast, and always learning.<br><br>### ⚙️ Tech Stack<br>- 🌐 Frontend: HTML, CSS, JavaScript, React  <br>- 🧠 Backend (Learning): C++, Node.js, MongoDB  <br>- 🛠️ Tools: Git, VSCode, Postman, Figma<br><br>### 🚀 Currently<br>- Building frontend projects that actually *look* good  <br>- Leveling up in C++ and backend logic  <br>- Exploring how UI meets performance<br><br>---<br><br>📫 Let’s connect: [Email](ananytanwar@gmail.com) <br><br>**Design it. Code it. Ship it. Then hit the gym.**<br>
+
 
 
 # 💻 Tech Stack:
